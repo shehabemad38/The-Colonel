@@ -1,0 +1,8 @@
+Confidentiality:
+Ensures sensitive information is protected from unauthorized access through encryption and access controls.
+
+Integrity:
+Maintains data accuracy and prevents unauthorized modifications using hashing and monitoring mechanisms.
+
+Availability:
+Ensures systems and services remain accessible through backups, redundancy, and disaster recovery plans.
