@@ -1,43 +1,17 @@
-# The Role of Technology in Everyday Life
+# Simple Calculator
 
-Technology has become one of the most influential aspects of modern society. Over the past few decades, it has transformed the way people communicate, work, study, and entertain themselves. From smartphones and cloud computing to artificial intelligence and the Internet of Things, technological innovation continues to reshape everyday life. While these advancements provide significant benefits, they also introduce challenges that require thoughtful consideration.
+num1 = 10
+num2 = 5
 
-One of the greatest advantages of technology is improved communication. In the past, sending a message across the world could take days or even weeks. Today, people can communicate instantly through messaging applications, video conferencing platforms, and email. Families separated by thousands of kilometers can maintain close relationships through regular video calls, while businesses can collaborate across continents without leaving their offices.
+sum_result = num1 + num2
+difference = num1 - num2
+product = num1 * num2
+division = num1 / num2
 
-Education has also experienced tremendous improvements due to technological advancements. Students now have access to online courses, digital libraries, educational videos, and interactive learning platforms. These resources allow learners to study at their own pace and explore subjects beyond traditional classroom materials. Teachers benefit from digital tools that simplify lesson planning, assessments, and communication with students.
+print("First Number:", num1)
+print("Second Number:", num2)
 
-The workplace has evolved significantly as organizations adopt new technologies. Cloud services enable employees to access documents from anywhere, making remote work more practical than ever before. Collaboration platforms allow teams to share ideas, manage projects, and communicate efficiently regardless of their physical location. Automation has reduced repetitive tasks, allowing employees to focus on creative problem-solving and strategic planning.
-
-Cybersecurity has become increasingly important as technology becomes integrated into nearly every aspect of life. Organizations invest heavily in firewalls, intrusion detection systems, encryption technologies, and security awareness training to protect valuable information. Individuals are encouraged to create strong passwords, enable multi-factor authentication, and remain cautious when opening emails or downloading files from unknown sources.
-
-Networking serves as the backbone of modern communication systems. Every device connected to the internet relies on networking technologies to exchange information. Routers, switches, wireless access points, and firewalls work together to ensure data reaches its intended destination efficiently and securely. Network engineers design, configure, and maintain these systems to provide reliable connectivity for businesses and consumers alike.
-
-Cloud computing has revolutionized information technology by allowing organizations to rent computing resources instead of purchasing expensive hardware. Services such as virtual servers, online storage, and managed databases reduce infrastructure costs while improving scalability. Businesses can quickly increase or decrease their computing resources depending on demand without making large capital investments.
-
-Artificial intelligence is rapidly becoming an essential component of many industries. AI-powered systems analyze large datasets, identify patterns, and support decision-making processes. Healthcare providers use AI to assist with medical diagnosis, financial institutions employ machine learning to detect fraudulent transactions, and customer support departments implement intelligent chatbots to answer common questions around the clock.
-
-Despite these advantages, technology also presents several challenges. Privacy concerns continue to grow as companies collect vast amounts of user data. Cybercriminals constantly develop new techniques to exploit vulnerabilities, making cybersecurity a continuous process rather than a one-time solution. Organizations must balance innovation with responsible data protection practices.
-
-Environmental sustainability has become another important topic in technology discussions. Electronic devices require valuable natural resources during manufacturing, and electronic waste has become a global concern. Manufacturers increasingly focus on creating energy-efficient devices, improving recycling programs, and reducing the environmental impact of production processes.
-
-The future of technology promises even more innovation. Developments in quantum computing, autonomous vehicles, renewable energy systems, and advanced robotics have the potential to transform industries once again. As these technologies mature, society will continue adapting to new opportunities and challenges.
-
-Communication networks continue expanding through high-speed fiber-optic infrastructure and next-generation wireless technologies. Faster internet connections enable smoother video conferencing, improved online gaming experiences, and more reliable cloud services. Businesses increasingly depend on these high-performance networks to support digital transformation initiatives.
-
-Data has become one of the world's most valuable resources. Organizations collect information from customers, devices, and business operations to gain valuable insights. Data analytics helps companies identify trends, improve customer experiences, optimize supply chains, and make informed strategic decisions. However, maintaining data accuracy, security, and privacy remains essential.
-
-Software development continues evolving through modern programming frameworks, automation tools, and collaborative development platforms. Agile methodologies encourage continuous improvement by dividing projects into manageable iterations. Developers frequently release updates that introduce new features, fix bugs, and improve application security.
-
-Healthcare technology has dramatically improved patient care. Electronic medical records simplify information sharing among healthcare providers, while telemedicine allows patients to consult doctors remotely. Wearable fitness devices monitor heart rate, physical activity, and sleep quality, helping individuals better understand their overall health.
-
-Transportation systems have become smarter through technology. GPS navigation provides real-time directions and traffic updates, reducing travel time and improving efficiency. Electric vehicles contribute to lower emissions, while research into autonomous driving continues progressing toward safer and more efficient transportation.
-
-Financial technology has changed how people manage money. Mobile banking applications allow customers to transfer funds, pay bills, and monitor transactions from their smartphones. Digital payment platforms have reduced dependence on cash, making everyday purchases faster and more convenient.
-
-Businesses increasingly recognize the importance of digital transformation. Companies invest in modern infrastructure, cybersecurity, cloud computing, and employee training to remain competitive. Successful organizations understand that technology alone is not enough; skilled professionals and effective planning are equally important.
-
-Ethics plays a significant role in technological development. Developers, engineers, and policymakers must consider fairness, transparency, and accountability when designing systems that affect millions of users. Responsible innovation helps ensure that technological progress benefits society while minimizing unintended consequences.
-
-As technology continues advancing, lifelong learning becomes increasingly valuable. Professionals regularly update their skills through certifications, online courses, workshops, and practical experience. Continuous learning enables individuals to adapt to changing industries and remain competitive in the modern workforce.
-
-In conclusion, technology has transformed nearly every aspect of modern life. It improves communication, education, healthcare, transportation, business operations, and countless other fields. Although challenges such as cybersecurity, privacy, and sustainability require ongoing attention, the opportunities created by technological innovation remain enormous. By embracing responsible development, continuous learning, and effective security practices, individuals and organizations can maximize the benefits of technology while preparing for the future.
+print("Addition:", sum_result)
+print("Subtraction:", difference)
+print("Multiplication:", product)
+print("Division:", division)
